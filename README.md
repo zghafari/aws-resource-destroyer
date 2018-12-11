@@ -1,4 +1,4 @@
-# AWS Resource Terminator
+# AWS Resource Destroyer
 AWS Resource Terminator - Bash script that destroys resources within an entire account using profiles via cli. 
 Destroys based on region of profile.
 
