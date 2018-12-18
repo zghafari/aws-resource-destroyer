@@ -3,7 +3,7 @@ AWS Resource Destroyer - Bash script that destroys resources within an entire ac
 Destroys based on region of profile.
 
 ## Introduction
-This was written before aws-nuke was available. However the commands may still be useful to you to clean up specific resources.
+This was written before aws-nuke was available. The commands may still be useful to you if would need to remove specific resources.
 
 ## Usage
 Configure you AWS CLI, create your profile, set your profile and run the script!
