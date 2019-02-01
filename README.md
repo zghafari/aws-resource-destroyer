@@ -8,9 +8,9 @@ This was written before aws-nuke was available. The commands may still be useful
 ## Usage
 Configure you AWS CLI, create your profile, set your profile and run the script!
 
-### Walk-through
+## Walk-through
 http://aws-cloud.guru/nuke-delete-your-all-your-untracked-aws-resources/
 
-### Author
+## Author
 
   [Zubin Ghafari](https://www.linkedin.com/in/zghafari/)
